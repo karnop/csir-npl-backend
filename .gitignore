@@ -1,2 +1,6 @@
 /venv
 .env
+.vscode/
+app/__pycache__/
+models/
+__pycache__/
